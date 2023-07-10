@@ -1,0 +1,17 @@
+.
+
+/* style.css */
+/* Set the font to be sans-serif */
+body {
+  font-family: sans-serif; /* Sets the font of the body to sans-serif */
+}
+
+/* Set the background color to be light gray */
+body {
+  background-color: #f2f2f2; /* Sets the background color of the body to light gray */
+}
+
+/* Set the font color to be dark gray */
+body {
+  color: #333333; /* Sets the font color of the body to dark gray */
+}
